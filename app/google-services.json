@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "214628063099",
+    "firebase_url": "https://main-catwalk-199315.firebaseio.com",
+    "project_id": "main-catwalk-199315",
+    "storage_bucket": "main-catwalk-199315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214628063099:android:0cbbba6c781924ca",
+        "android_client_info": {
+          "package_name": "com.gaurav.whatsappstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214628063099-165qlecgoaf4tiono3p71ptkmbp2fq2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaurav.whatsappstatus",
+            "certificate_hash": "e922756c75579155f2ecbbda79fb97c0ef2be49c"
+          }
+        },
+        {
+          "client_id": "214628063099-nucaknvsoth5qlu454l15g1kt8iav860.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQH3jM0EJ6FjTSWZqogezenu9I4szeq8s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214628063099-nucaknvsoth5qlu454l15g1kt8iav860.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
